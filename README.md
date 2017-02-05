@@ -1,4 +1,4 @@
-# The ‘learn to code’ algorithm: An easy inclusive recipe for beginners
+# The ‘learn to code’ algorithm: An easy inclusive recipe for beginners learning on the web
 
 Less lies, more empathy please…
 
@@ -12,8 +12,10 @@ The 3 biggest issues with programming advice that people give is:
 3) Advice often does not consider that people have different cognitive strengths, weaknesses and life circumstances. This requires different kinds of resources that accommodate different situations — the curse of knowledge and privilege makes people forget how they learned to code in the first place.
 
 We don’t need another list of ’30 resources to help you learn to programme in language x’. While those are helpful, what we need a simple recipe that newbies can use and adjust.
-This is a simple 3 step learn to code recipe:
+
+This is a simple 4 step 'learn to code' recipe:
 
 1. Know your cognitive preferences and learning style.
 2. Try and switch between various learning resources till you find a good fit.
-3. When you have learned the basics and begin to specialize, repeat step 1 & 2 2 adjust this recipe.
+3. Go to the gym and practice micro-problem solving before switching to macro-problem solving.
+4. When you have learned the basics and begin to specialize, repeat step 1–3 , and adjust this recipe.
